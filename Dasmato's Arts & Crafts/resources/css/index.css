@@ -1,0 +1,30 @@
+h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("../images/pattern.jpeg");
+  }
+
+/*This is a template for the h2 elements.*/
+h2{
+  color: white;
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  background-color: mediumspringgreen;
+}
+
+/*These two sections overwrite the h2 template with individual background colours.*/
+#Frames h2{
+  background-color: lightcoral;
+}
+
+#Paint h2{
+  background-color: skyblue;
+}
+
+b{
+  color:blue;
+}
